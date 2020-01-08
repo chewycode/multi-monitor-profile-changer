@@ -9,7 +9,7 @@ Usage:
 
 The 1st arguemnt is required.  It has to be 4 digits consisting of 1's and 0's.  1 means ON and 0 means OFF.<br>
 Example:<code>$ sh mon.sh 1110</code><br>
-This will make the left 3 monitors turn on while turning off the 4th monitor.
+This will make the left 3 monitors turn on while turning off the 4th monitor which is my tv.
 <br><br>
 The second argument is optional.  In order to specify this argument you must turn on 4th monitor (the last digit needs to be 1) The second argument can only be one of the following...<br>
 <ul>
