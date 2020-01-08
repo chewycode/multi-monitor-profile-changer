@@ -20,3 +20,4 @@ Example:<code>$ sh mon.sh 1111 mirror3</code><br>
 This will make the TV mirror monitor 3
 <br><br>
 The best part is you can ssh into your desktop from your phone or laptop to change you monitor setup.
+<h3>You must tailer this script to your own monitor setup.</h3>
