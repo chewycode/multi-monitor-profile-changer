@@ -7,7 +7,7 @@ Usage:
 
 <code>$ sh mon.sh 1st 2nd(optional)</code>
 
-The 1st arguemnt is required.  It has to be 4 digits consisting of 1's and 0's.  1 means ON and 0 means OFF.<br>
+The 1st argument is required.  It has to be 4 digits consisting of 1's and 0's.  1 means ON and 0 means OFF.<br>
 Example:<code>$ sh mon.sh 1110</code><br>
 This will make the left 3 monitors turn on while turning off the 4th monitor which is my tv.
 <br><br>
