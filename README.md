@@ -2,7 +2,7 @@
 Dependencies: xrandr<br><br>
 
 This is my bash script to change my monitor setup that is connected to my desktop.  I mainly use it to change from my 3 desk monitors to my 4k tv when I'm ready to lay in bed.
-<br>
+<br><br>
 Usage:
 
 <code>$ sh mon.sh 1st 2nd(optional)</code>
