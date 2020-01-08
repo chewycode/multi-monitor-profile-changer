@@ -11,7 +11,7 @@ This will make the left 3 monitors turn on while turning off the 4th monitor.
 <br><br>
 The second argument is optional.  In order to specify this argument you must turn on 4th monitor (the last digit needs to be 1) The second argument can only be one of the following...<br>
 <ul>
-  <li>4k: makes the resolution of TV 4k.  Without this it defaults to 1080p</li>
+  <li>4k: makes the resolution of TV 4k.  Without this, it defaults to 1080p.</li>
   <li>mirror1: TV mirrors monitor 1</li>
   <li>mirror2: TV mirrors monitor 2</li>
   <li>mirror3: TV mirrors monitor 3</li>
