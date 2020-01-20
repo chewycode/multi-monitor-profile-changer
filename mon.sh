@@ -1,4 +1,4 @@
-#/bin/bash
+#!/bin/bash
 
 # see if xrandr is installed
 if [ ! command -v foobar &> /dev/null ]
